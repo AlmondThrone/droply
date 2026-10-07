@@ -41,11 +41,17 @@
 
 The public Droply service does not use browser cookies or access a user's PC files, screen, clipboard or personal cloud area. Supported jobs are processed using temporary files.
 
+## Useful Droply pages
+
+- **Website:** https://almondthrone.github.io/droply/
+- **Telegram video downloader:** https://almondthrone.github.io/droply/telegram-video-downloader.html
+- **Video to MP3:** https://almondthrone.github.io/droply/video-to-mp3.html
+- **Telegram PDF tools:** https://almondthrone.github.io/droply/telegram-pdf-tools.html
+- **Privacy:** https://almondthrone.github.io/droply/privacy.html
+
 ## Website and SEO
 
-The public landing page contains feature information, FAQs, pricing, usage guidance and structured metadata for search engines.
-
-**Live website:** https://almondthrone.github.io/droply/
+The public website contains feature information, FAQs, pricing, usage guidance, dedicated feature pages, privacy information and structured metadata for search engines.
 
 **Telegram bot:** https://t.me/DroplyFileBot
 
