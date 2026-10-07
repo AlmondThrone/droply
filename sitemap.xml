@@ -1,4 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://almondthrone.github.io/droply/</loc><lastmod>2026-10-07</lastmod></url>
+  <url>
+    <loc>https://almondthrone.github.io/droply/</loc>
+    <lastmod>2026-10-07</lastmod>
+  </url>
+  <url>
+    <loc>https://almondthrone.github.io/droply/telegram-video-downloader.html</loc>
+    <lastmod>2026-10-07</lastmod>
+  </url>
+  <url>
+    <loc>https://almondthrone.github.io/droply/video-to-mp3.html</loc>
+    <lastmod>2026-10-07</lastmod>
+  </url>
+  <url>
+    <loc>https://almondthrone.github.io/droply/telegram-pdf-tools.html</loc>
+    <lastmod>2026-10-07</lastmod>
+  </url>
 </urlset>
