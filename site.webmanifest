@@ -1,0 +1,18 @@
+{
+  "name": "Droply — Video & Media Downloader",
+  "short_name": "Droply",
+  "start_url": "/droply/",
+  "scope": "/droply/",
+  "display": "standalone",
+  "background_color": "#070a12",
+  "theme_color": "#070a12",
+  "description": "Droply is a Telegram video and media downloader with audio, image, PDF and ZIP tools.",
+  "icons": [
+    {
+      "src": "/droply/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
